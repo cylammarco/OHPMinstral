@@ -1,0 +1,10 @@
+light, spectre_HD20041_00038.fits, 0
+flat, spectre_ff_00030.fits, 0
+flat, spectre_ff_00031.fits, 0
+dark, offset_00001.fits, 0
+dark, offset_00002.fits, 0
+dark, offset_00003.fits, 0
+dark, offset_00004.fits, 0
+dark, offset_00005.fits, 0
+arc, spectre_hgar_00028.fits, 0
+arc, spectre_hgar_00029.fits, 0
